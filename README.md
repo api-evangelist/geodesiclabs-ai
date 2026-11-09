@@ -1,4 +1,4 @@
-# geodesiclabs-ai
+# GeodesicAI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-geodesiclabs-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://geodesiclabs.ai/
+GeodesicAI provides deterministic verification for agent actions, offering a platform that validates workflows against blueprints, recomputes outcomes, and issues cryptographic certificates. It supports compliance mappings (EU AI Act, NIST AI RMF, ISO 42001), security references (OWASP LLM Top 10, MITRE ATLAS), and offers free trial access. The service is hosted at geodesiclabs.ai and operates as a Delaware C‑Corp.
+
+**Areas:** AI · Deterministic Verification · Compliance · Security · Platform
+
+## GeodesicAI on APIs.io
+
+Everything profiled for GeodesicAI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/geodesiclabs-ai/](https://apis.io/providers/geodesiclabs-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (34)
+
+- [GeodesicAI Admin API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-admin-api/) — The Admin API from GeodesicAI — 3 operation(s) for admin.
+- [GeodesicAI Analyze Anomaly API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-analyze-anomaly-api/) — The Analyze Anomaly API from GeodesicAI — 1 operation(s) for analyze anomaly.
+- [GeodesicAI Ask API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-ask-api/) — The Ask API from GeodesicAI — 1 operation(s) for ask.
+- [GeodesicAI Auth API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-auth-api/) — The Auth API from GeodesicAI — 10 operation(s) for auth.
+- [GeodesicAI Blueprint Health API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-blueprint-health-api/) — The Blueprint Health API from GeodesicAI — 1 operation(s) for blueprint health.
+- [GeodesicAI Chain API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-chain-api/) — The Chain API from GeodesicAI — 5 operation(s) for chain.
+- [GeodesicAI Chains API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-chains-api/) — The Chains API from GeodesicAI — 1 operation(s) for chains.
+- [GeodesicAI Create Template API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-create-template-api/) — The Create Template API from GeodesicAI — 1 operation(s) for create template.
+- [GeodesicAI Delete Config API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-delete-config-api/) — The Delete Config API from GeodesicAI — 1 operation(s) for delete config.
+- [GeodesicAI Delete Key API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-delete-key-api/) — The Delete Key API from GeodesicAI — 1 operation(s) for delete key.
+- [GeodesicAI Demo Data API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-demo-data-api/) — The Demo Data API from GeodesicAI — 2 operation(s) for demo data.
+- [GeodesicAI Discovered Rules API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-discovered-rules-api/) — The Discovered Rules API from GeodesicAI — 3 operation(s) for discovered rules.
+- [GeodesicAI Execute Task API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-execute-task-api/) — The Execute Task API from GeodesicAI — 1 operation(s) for execute task.
+- [GeodesicAI Generate Account Key API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-generate-account-key-api/) — The Generate Account Key API from GeodesicAI — 1 operation(s) for generate account key.
+- [GeodesicAI Generate Api Key API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-generate-api-key-api/) — The Generate Api Key API from GeodesicAI — 1 operation(s) for generate api key.
+- [GeodesicAI GeodesicAI Platform API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-geodesicai-platform-api-api/) — The GeodesicAI Platform API API from GeodesicAI — 2 operation(s) for geodesicai platform api.
+- [GeodesicAI Health API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-health-api/) — The Health API from GeodesicAI — 1 operation(s) for health.
+- [GeodesicAI List Packs API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-list-packs-api/) — The List Packs API from GeodesicAI — 1 operation(s) for list packs.
+- [GeodesicAI List Templates API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-list-templates-api/) — The List Templates API from GeodesicAI — 1 operation(s) for list templates.
+- [GeodesicAI Live Stats API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-live-stats-api/) — The Live Stats API from GeodesicAI — 1 operation(s) for live stats.
+- [GeodesicAI Load Config API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-load-config-api/) — The Load Config API from GeodesicAI — 1 operation(s) for load config.
+- [GeodesicAI Load Pack API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-load-pack-api/) — The Load Pack API from GeodesicAI — 1 operation(s) for load pack.
+- [GeodesicAI My Configs API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-my-configs-api/) — The My Configs API from GeodesicAI — 1 operation(s) for my configs.
+- [GeodesicAI My Keys API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-my-keys-api/) — The My Keys API from GeodesicAI — 1 operation(s) for my keys.
+- [GeodesicAI Observe API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-observe-api/) — The Observe API from GeodesicAI — 1 operation(s) for observe.
+- [GeodesicAI Platform API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-platform-api/) — The Platform API from GeodesicAI — 1 operation(s) for platform.
+- [GeodesicAI Reference Memory API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-reference-memory-api/) — The Reference Memory API from GeodesicAI — 2 operation(s) for reference memory.
+- [GeodesicAI Refresh Key API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-refresh-key-api/) — The Refresh Key API from GeodesicAI — 1 operation(s) for refresh key.
+- [GeodesicAI Reset Session API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-reset-session-api/) — The Reset Session API from GeodesicAI — 1 operation(s) for reset session.
+- [GeodesicAI Review Pool API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-review-pool-api/) — The Review Pool API from GeodesicAI — 3 operation(s) for review pool.
+- [GeodesicAI Structural Types API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-structural-types-api/) — The Structural Types API from GeodesicAI — 1 operation(s) for structural types.
+- [GeodesicAI Trajectory API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-trajectory-api/) — The Trajectory API from GeodesicAI — 1 operation(s) for trajectory.
+- [GeodesicAI Update Config API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-update-config-api/) — The Update Config API from GeodesicAI — 1 operation(s) for update config.
+- [GeodesicAI Webhook API](https://apis.io/apis/geodesiclabs-ai/geodesiclabs-ai-webhook-api/) — The Webhook API from GeodesicAI — 1 operation(s) for webhook.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [GeodesicAI Domain Security](https://apis.io/security/geodesiclabs-ai/geodesiclabs-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://geodesiclabs.ai/)
+- [Documentation](https://geodesiclabs.ai/GeodesicAI_Platform_Guide.pdf)
+- [Terms of service](https://app.geodesiclabs.ai/terms.html)
+- [Privacy policy](https://app.geodesiclabs.ai/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 23.2** — emerging · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 38.2 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 26.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/geodesiclabs-ai/](https://apis.io/providers/geodesiclabs-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GeodesicAI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/geodesiclabs-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
